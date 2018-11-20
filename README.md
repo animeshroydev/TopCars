@@ -1,6 +1,8 @@
 # TopCars
 App Demo of Parsing JSON for YT channel
 
+### Building a layout and populating its fields from data received as JSON is a common task for Android Developers. Although JSON parsing is usually done using libraries, writing the JSON parsing for this project will help you to better understand how it is processed.
+
 Parsing JSON from API is really important skills to have. In the App I have parsed the JSON data which are stored in QueryUtils.java class.
 
 Copy and Paste those simple JSON response from the Gist:
